@@ -8,28 +8,28 @@ Dell Precision
 12 GB RAM
 
 ## Development
-Vim
-Emacs
-Visual Studio Code
-Shell: ZSH (Oh My ZSH)
-Font: Iosevka
-Alacritty (GPU accelerated terminal)
-Docker
-Docker Compose
-Google Chrome
-Firefox
+- Vim
+- Emacs
+- Visual Studio Code
+- Shell: ZSH (Oh My ZSH)
+- Font: Iosevka
+- Alacritty (GPU accelerated terminal)
+- Docker
+- Docker Compose
+- Google Chrome
+- Firefox
 
 ## Hosting
-AWS
-Netlify
-Slack
-1Password
+- AWS
+- Netlify
+- Slack
+- 1Password
 
 ## Business/Finance
-Gsuite
+- Gsuite
 
 ## Entertainment
-Spotify
-Apple Music
-Netflix
-Apple TV+
+- Spotify
+- Apple Music
+- Netflix
+- Apple TV+
