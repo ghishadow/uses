@@ -26,7 +26,7 @@ Slack
 1Password
 
 ## Business/Finance
-Google Sheets
+Gsuite
 
 ## Entertainment
 Spotify
