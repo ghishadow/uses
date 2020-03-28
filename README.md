@@ -12,7 +12,7 @@ Dell Precision
 - Emacs
 - Visual Studio Code
 - Shell: ZSH (Oh My ZSH)
-- Font: Iosevka
+- Font: Dank Mono
 - Alacritty (GPU accelerated terminal)
 - Docker
 - Docker Compose
