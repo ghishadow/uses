@@ -2,10 +2,7 @@
 
 ## Hardware
 
-Dell Precision 
-2.3 GHz Dual-Core Intel Core i5
-1 TB HDD 
-12 GB RAM
+Macbook Pro 13' 2020
 
 ## Development
 - Vim
