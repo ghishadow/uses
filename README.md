@@ -14,7 +14,9 @@ Macbook Pro 13' 2020
 - Docker
 - Docker Compose
 - Google Chrome
-- Firefox
+- Firefox Developer Edition
+- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/)
+
 
 ## Hosting
 - AWS
