@@ -30,6 +30,13 @@ Macbook Pro 13' 2020
  - 1Password
  - Vimium (I :heart: vim keybindings everywhere)
  - DuckDuckGo Privacy Essentials
+ 
+## Cli tools
+- homebrew
+- ripgrep
+- npm
+- bat
+- [delta](https://github.com/dandavison/delta)
 
 ## Business/Finance
 - Gsuite
