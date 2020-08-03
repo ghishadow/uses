@@ -5,7 +5,7 @@
 Macbook Pro 13' 2020
 
 ## Development
-- Vim
+- Neovim
 - Emacs
 - Visual Studio Code
 - Shell: ZSH (Oh My ZSH)
@@ -19,10 +19,17 @@ Macbook Pro 13' 2020
 
 
 ## Hosting
-- AWS
+- AWS for bigger projects
+- Digital Ocean for small projects
 - Netlify
 - Slack
+- Discord
 - 1Password
+
+## Chrome Extension
+ - 1Password
+ - Vimium (I :heart: vim keybindings everywhere)
+ - DuckDuckGo Privacy Essentials
 
 ## Business/Finance
 - Gsuite
@@ -32,6 +39,7 @@ Macbook Pro 13' 2020
 - Apple Music
 - Netflix
 - Apple TV+
+- Amazon Prime
 
 ## In my Backpack
 - Anker Powerbank
