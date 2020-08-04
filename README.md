@@ -9,6 +9,7 @@ Macbook Pro 13' 2020
 - Emacs
 - Visual Studio Code
 - Shell: ZSH (Oh My ZSH)
+- Shell prompt: startship
 - Font: Dank Mono
 - Alacritty (GPU accelerated terminal)
 - Docker
