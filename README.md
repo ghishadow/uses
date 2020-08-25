@@ -2,7 +2,10 @@
 
 ## Hardware
 
-Macbook Pro 13' 2020
+BenQ Pro Designer Monitor
+Logitech Prodigy Keyboard
+Logictech Focus Mouse
+
 
 ## Development
 - Neovim
