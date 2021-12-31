@@ -2,50 +2,57 @@
 
 ## Hardware
 
-BenQ Pro Designer Monitor
-Logitech Prodigy Keyboard
-Logictech Focus Mouse
-
+- BenQ Pro Designer Monitor
+- Logitech Prodigy Keyboard
+- Logitech Focus Mouse
 
 ## Development
+
 - Neovim
-- Emacs
+- Emacs (Doom)
+- [Lapce](https://github.com/lapce/lapce)
+  > mostly for Rust related projects
 - Visual Studio Code
-- Shell: ZSH (Oh My ZSH)
-- Shell prompt: startship
-- Font: Dank Mono
+- Shell: [Nu Shell](https://www.nushell.sh)
+- Shell prompt: Startship
+- Font: Dank Mono/ Jetbrains Mono
 - Alacritty (GPU accelerated terminal)
+- Windows Terminal
 - Docker
 - Docker Compose
-- Google Chrome
-- Firefox Developer Edition
-- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/)
-
+- Brave Browser
 
 ## Hosting
+
 - AWS for bigger projects
 - Digital Ocean for small projects
 - Netlify
 - Slack
 - Discord
 - 1Password
+- Vercel
 
-## Chrome Extension
- - 1Password
- - Vimium (I :heart: vim keybindings everywhere)
- - DuckDuckGo Privacy Essentials
- 
+## Brave Extension
+
+- 1Password
+- Vimium (I :heart: vim keybindings everywhere)
+- DuckDuckGo Privacy Essentials
+
 ## Cli tools
+
 - homebrew
 - ripgrep
 - npm
 - bat
 - [delta](https://github.com/dandavison/delta)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ## Business/Finance
+
 - Gsuite
 
 ## Entertainment
+
 - Spotify
 - Apple Music
 - Netflix
@@ -53,6 +60,5 @@ Logictech Focus Mouse
 - Amazon Prime
 
 ## In my Backpack
+
 - Anker Powerbank
-
-
