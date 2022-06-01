@@ -13,7 +13,7 @@
 - [Helix](https://github.com/helix-editor/helix)
 - Shell: [Nu Shell](https://www.nushell.sh)
 - Shell prompt: Startship
-- Font: [Martian Mono][https://github.com/evilmartians/mono]
+- Font: (Martian Mono)[https://github.com/evilmartians/mono]
 - Foot in Linux 
 - Windows Terminal
 - Docker
