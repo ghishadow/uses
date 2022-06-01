@@ -35,14 +35,14 @@
 s
 
 ## Cli tols
-[nix](https://nixos.org/)rew[
-- ripg](https://github.com/BurntSushi/ripgrep)rep[p
-- ](https://pnpm.io)npm[
-- ](https://github.com/sharkdp/bat)bat
+- [nix](https://nixos.org/)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [pnpm](https://pnpm.io)
+- [bat](https://github.com/sharkdp/bat)
 - [delta](https://github.com/dandavison/delta)
-- [zoxide](https://github.com/ajeetdsouza/zoxi
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [zellij](https://github.com/zellij-org/zellij)
-- [mcfly](https://github.com/cantino/mcfly)de)
+- [mcfly](https://github.com/cantino/mcfly)
 
 ## Business/Finance
 
