@@ -8,44 +8,41 @@
 
 ## Development
 
-- Neovim
-- Emacs (Doom)
 - [Lapce](https://github.com/lapce/lapce)
   > mostly for Rust related projects
-- Visual Studio Code
+- [Helix](https://github.com/helix-editor/helix)
 - Shell: [Nu Shell](https://www.nushell.sh)
 - Shell prompt: Startship
-- Font: Dank Mono/ Jetbrains Mono
-- Alacritty (GPU accelerated terminal)
+- Font: [Martian Mono][https://github.com/evilmartians/mono]
+- Foot in Linux 
 - Windows Terminal
 - Docker
 - Docker Compose
-- Brave Browser
+- Firefox
 
 ## Hosting
 
 - AWS for bigger projects
 - Digital Ocean for small projects
 - Netlify
+- fly.io
+- Render
 - Slack
 - Discord
-- 1Password
-- Vercel
-
-## Brave Extension
-
-- 1Password
+- Bitwardend
 - Vimium (I :heart: vim keybindings everywhere)
-- DuckDuckGo Privacy Essentials
+- DuckDuckGo Privacy Essentiale
+s
 
-## Cli tools
-
-- homebrew
-- ripgrep
-- npm
-- bat
+## Cli tols
+[nix](https://nixos.org/)rew[
+- ripg](https://github.com/BurntSushi/ripgrep)rep[p
+- ](https://pnpm.io)npm[
+- ](https://github.com/sharkdp/bat)bat
 - [delta](https://github.com/dandavison/delta)
-- [zoxide](https://github.com/ajeetdsouza/zoxide)
+- [zoxide](https://github.com/ajeetdsouza/zoxi
+- [zellij](https://github.com/zellij-org/zellij)
+- [mcfly](https://github.com/cantino/mcfly)de)
 
 ## Business/Finance
 
@@ -53,12 +50,11 @@
 
 ## Entertainment
 
-- Spotify
-- Apple Music
-- Netflix
+- Spotlix
 - Apple TV+
 - Amazon Prime
+- Disney Plus
 
 ## In my Backpack
 
-- Anker Powerbank
+- Anker Powerb
