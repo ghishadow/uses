@@ -2,6 +2,7 @@
 
 ## Hardware
 
+- Macbook Air (M1) 
 - BenQ Pro Designer Monitor
 - Logitech Prodigy Keyboard
 - Logitech Focus Mouse
@@ -11,28 +12,25 @@
 - [Lapce](https://github.com/lapce/lapce)
   > mostly for Rust related projects
 - [Helix](https://github.com/helix-editor/helix)
+- [Zed](https://zed.dev) in Mac
 - Shell: [Nu Shell](https://www.nushell.sh)
 - Shell prompt: Startship
 - Font: (Martian Mono)[https://github.com/evilmartians/mono]
-- Foot in Linux 
-- Windows Terminal
-- Docker
-- Docker Compose
+- Wezterm in all platforms
 - Firefox
+- Bitwarden
 
 ## Hosting
 
-- AWS for bigger projects
-- Digital Ocean for small projects
 - Netlify
 - fly.io
 - Render
-- Slack
 - Discord
-- Bitwardend
+
+Extension and Web
+
 - Vimium (I :heart: vim keybindings everywhere)
-- DuckDuckGo Privacy Essentiale
-s
+- Brave Search
 
 ## Cli tols
 - [nix](https://nixos.org/)
@@ -51,10 +49,9 @@ s
 ## Entertainment
 
 - Spotlix
-- Apple TV+
 - Amazon Prime
 - Disney Plus
 
 ## In my Backpack
 
-- Anker Powerb
+- Anker Powerbank
