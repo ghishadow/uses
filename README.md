@@ -48,7 +48,7 @@ Extension and Web
 
 ## Entertainment
 
-- Spotlix
+- Spotify 
 - Amazon Prime
 - Disney Plus
 
